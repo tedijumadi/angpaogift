@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663054481134",
+    "project_id": "gachaangpao",
+    "storage_bucket": "gachaangpao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663054481134:android:95eabe519cbec7442d25ff",
+        "android_client_info": {
+          "package_name": "com.example.gachaangpao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uAEUYBqdwiQhfey_hehfoO4qXtmP75U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
