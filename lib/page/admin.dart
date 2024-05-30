@@ -17,7 +17,7 @@ class _AdminPageState extends State<AdminPage> {
   bool isStartVisibility = false;
   // int countdown = 3;
   // int countdown = 5;
-  int countdown = 20;
+  int countdown = 5;
   String memberId = "";
 
   Future<void> deleteMember(memberId) async {
@@ -632,7 +632,7 @@ class _AdminPageState extends State<AdminPage> {
                                             onPressed: () {
                                               // countdown = 3;
                                               // countdown = 5;
-                                              countdown = 20;
+                                              countdown = 5;
 
                                               // Start the countdown
                                               Timer.periodic(
